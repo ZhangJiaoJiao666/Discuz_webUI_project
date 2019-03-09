@@ -1,0 +1,19 @@
+2019-02-28 09:14:12,774 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 09:14:12,774 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-28 09:14:15,657 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 09:14:16,697 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-28 09:14:17,869 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 09:14:17,872 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 09:14:23,344 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 09:14:23,344 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-28 09:14:25,675 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 09:14:26,647 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-28 09:14:27,799 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 09:14:27,800 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 09:14:31,651 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 09:14:31,776 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 09:14:31,887 - BasePage - INFO - 输入内容为：123456
+2019-02-28 09:14:31,972 - BasePage - INFO - 已单击
+2019-02-28 09:14:37,151 - BasePage - INFO - 输入内容为：haotest
+2019-02-28 09:14:37,245 - BasePage - INFO - 已单击
+2019-02-28 09:14:37,251 - BasePage - INFO - 成功

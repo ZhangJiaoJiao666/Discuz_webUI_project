@@ -1,0 +1,16 @@
+2019-02-28 10:43:14,024 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 10:43:14,024 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 10:43:16,251 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 10:43:16,610 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 10:43:17,749 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 10:43:17,751 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 10:43:21,396 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 10:43:21,543 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 10:43:21,623 - BasePage - INFO - 输入内容为：123456
+2019-02-28 10:43:21,691 - BasePage - INFO - 已单击
+2019-02-28 10:43:26,808 - BasePage - INFO - 输入内容为：haotest
+2019-02-28 10:43:26,897 - BasePage - INFO - 已单击
+2019-02-28 10:43:26,903 - BasePage - INFO - 成功
+2019-02-28 10:43:45,061 - BasePage - ERROR - 未找到Message: 
+
+2019-02-28 10:43:45,061 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 

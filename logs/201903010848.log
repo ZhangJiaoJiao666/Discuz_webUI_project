@@ -1,0 +1,27 @@
+2019-03-01 08:48:56,632 - BroserEngine - INFO - You had select Chrome browser
+2019-03-01 08:48:56,633 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-01 08:48:59,171 - BroserEngine - INFO - Starting Chrome browser
+2019-03-01 08:48:59,582 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-01 08:49:00,738 - BroserEngine - INFO - Maximize the current window. 
+2019-03-01 08:49:00,739 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-01 08:49:04,658 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-01 08:49:04,801 - BasePage - INFO - 输入内容为：rebecca
+2019-03-01 08:49:04,886 - BasePage - INFO - 输入内容为：123456
+2019-03-01 08:49:04,963 - BasePage - INFO - 已单击
+2019-03-01 08:49:10,295 - BasePage - INFO - 已单击
+2019-03-01 08:49:15,643 - BasePage - INFO - 已单击
+2019-03-01 08:49:20,231 - BasePage - INFO - 已单击
+2019-03-01 08:49:25,582 - BasePage - INFO - 输入内容为：第10投票哈哈哈
+2019-03-01 08:49:25,737 - BasePage - INFO - 输入内容为：开心
+2019-03-01 08:49:25,992 - BasePage - INFO - 输入内容为：伤心
+2019-03-01 08:49:26,231 - BasePage - INFO - 输入内容为：还有
+2019-03-01 08:49:31,586 - BasePage - INFO - 已单击
+2019-03-01 08:49:38,788 - BasePage - INFO - 已单击
+2019-03-01 08:49:42,966 - BasePage - INFO - 已单击
+2019-03-01 08:49:46,050 - BasePage - INFO - 文本内容为:1.  开心
+2019-03-01 08:49:56,472 - BasePage - ERROR - 未找到Message: 
+
+2019-03-01 08:49:56,710 - BasePage - INFO - 文本内容为:2.  伤心
+2019-03-01 08:49:56,899 - BasePage - INFO - 文本内容为:
+2019-03-01 08:49:57,096 - BasePage - INFO - 文本内容为:3.  还有
+2019-03-01 08:49:57,280 - BasePage - INFO - 文本内容为:(0)

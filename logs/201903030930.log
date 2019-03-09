@@ -1,0 +1,40 @@
+2019-03-03 09:30:48,222 - BroserEngine - INFO - You had select Chrome browser
+2019-03-03 09:30:48,223 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-03 09:30:50,443 - BroserEngine - INFO - Starting Chrome browser
+2019-03-03 09:30:50,792 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-03 09:30:51,910 - BroserEngine - INFO - Maximize the current window. 
+2019-03-03 09:30:51,911 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-03 09:30:52,090 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-03 09:30:52,275 - BasePage - INFO - 输入内容为：admin
+2019-03-03 09:30:52,358 - BasePage - INFO - 输入内容为：zjj
+2019-03-03 09:30:52,446 - BasePage - INFO - 已单击
+2019-03-03 09:30:57,859 - BasePage - INFO - 已单击
+2019-03-03 09:31:03,870 - BasePage - INFO - 已单击
+2019-03-03 09:31:06,151 - BasePage - INFO - 已单击
+2019-03-03 09:31:09,578 - BasePage - INFO - 已单击
+2019-03-03 09:31:13,850 - BasePage - INFO - 已单击
+2019-03-03 09:31:16,864 - BasePage - INFO - 成功
+2019-03-03 09:31:18,062 - BasePage - INFO - 输入内容为：zjj
+2019-03-03 09:31:46,262 - BasePage - INFO - 已单击
+2019-03-03 09:31:51,825 - BasePage - INFO - 已单击
+2019-03-03 09:31:54,379 - BasePage - INFO - 已单击
+2019-03-03 09:31:54,581 - BasePage - INFO - 输入前清除内容
+2019-03-03 09:31:57,700 - BasePage - INFO - 输入内容为：123
+2019-03-03 09:31:58,076 - BasePage - INFO - 已单击
+2019-03-03 09:32:02,148 - BasePage - INFO - 成功关闭当前窗口
+2019-03-03 09:32:02,168 - BasePage - INFO - 成功
+2019-03-03 09:32:02,413 - BasePage - INFO - 刷新成功
+2019-03-03 09:32:17,723 - BasePage - INFO - 已单击
+2019-03-03 09:32:38,856 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-03 09:32:38,965 - BasePage - INFO - 输入内容为：rebecca
+2019-03-03 09:32:39,053 - BasePage - INFO - 输入内容为：123456
+2019-03-03 09:32:39,182 - BasePage - INFO - 已单击
+2019-03-03 09:32:44,484 - BasePage - INFO - 已单击
+2019-03-03 09:32:46,614 - BasePage - INFO - 输入内容为：我是用户
+2019-03-03 09:32:46,745 - BasePage - INFO - 输入内容为：我在新板块下发帖
+2019-03-03 09:32:51,521 - BasePage - INFO - 已单击
+2019-03-03 09:32:51,522 - ForumHomePage - INFO - 发表帖子成功
+2019-03-03 09:33:06,901 - BasePage - INFO - 输入内容为：我也是用户，我在新板块下回复
+2019-03-03 09:33:07,525 - BasePage - INFO - 已单击
+2019-03-03 09:33:12,546 - BasePage - INFO - 成功
+2019-03-03 09:33:12,914 - BasePage - INFO - 已单击

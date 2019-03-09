@@ -1,0 +1,21 @@
+2019-03-02 10:12:13,543 - BroserEngine - INFO - You had select Chrome browser
+2019-03-02 10:12:13,543 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-02 10:12:16,000 - BroserEngine - INFO - Starting Chrome browser
+2019-03-02 10:12:16,389 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-02 10:12:17,537 - BroserEngine - INFO - Maximize the current window. 
+2019-03-02 10:12:17,539 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-02 10:12:21,305 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-02 10:12:21,453 - BasePage - INFO - 输入内容为：rebecca
+2019-03-02 10:12:21,539 - BasePage - INFO - 输入内容为：123456
+2019-03-02 10:12:21,617 - BasePage - INFO - 已单击
+2019-03-02 10:12:26,909 - BasePage - INFO - 已单击
+2019-03-02 10:12:31,912 - ForumHomePage - ERROR - 发帖长度必须在4-1000字节之间，请重新输入！
+2019-03-02 10:12:46,914 - ForumHomePage - INFO - 发帖子正常
+2019-03-02 10:12:59,972 - BasePage - ERROR - 未找到Message: 
+
+2019-03-02 10:12:59,972 - BasePage - ERROR - 未输入内容：'NoneType' object has no attribute 'send_keys'
+2019-03-02 10:13:13,065 - BasePage - ERROR - 未找到Message: 
+
+2019-03-02 10:13:13,066 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 
+2019-03-02 10:13:18,098 - BasePage - INFO - 成功
+2019-03-02 10:13:18,693 - BasePage - INFO - 已单击

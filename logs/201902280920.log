@@ -1,0 +1,22 @@
+2019-02-28 09:20:29,292 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 09:20:29,292 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-28 09:20:32,024 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 09:20:33,406 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-28 09:20:34,596 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 09:20:34,598 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 09:20:51,276 - BasePage - ERROR - 未找到Message: 
+
+2019-02-28 09:20:51,278 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 
+2019-02-28 09:20:53,908 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 09:20:53,911 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-28 09:20:56,681 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 09:20:57,938 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-28 09:20:59,122 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 09:20:59,128 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 09:21:03,295 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 09:21:03,446 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 09:21:03,536 - BasePage - INFO - 输入内容为：123456
+2019-02-28 09:21:03,611 - BasePage - INFO - 已单击
+2019-02-28 09:21:08,919 - BasePage - INFO - 输入内容为：haotest
+2019-02-28 09:21:09,082 - BasePage - INFO - 已单击
+2019-02-28 09:21:09,088 - BasePage - INFO - 成功

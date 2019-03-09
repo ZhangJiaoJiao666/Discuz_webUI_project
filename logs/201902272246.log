@@ -1,0 +1,35 @@
+2019-02-27 22:46:18,326 - BroserEngine - INFO - You had select Chrome browser
+2019-02-27 22:46:18,327 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-27 22:46:20,879 - BroserEngine - INFO - Starting Chrome browser
+2019-02-27 22:46:22,794 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-27 22:46:24,015 - BroserEngine - INFO - Maximize the current window. 
+2019-02-27 22:46:24,019 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-27 22:46:28,180 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-27 22:46:28,331 - BasePage - INFO - 输入内容为：%sadmin
+2019-02-27 22:46:28,406 - BasePage - INFO - 输入内容为：%szjj
+2019-02-27 22:46:28,488 - BasePage - INFO - 已单击
+2019-02-27 22:46:33,740 - BasePage - INFO - 已单击
+2019-02-27 22:46:36,760 - BasePage - INFO - 成功
+2019-02-27 22:46:38,073 - BasePage - INFO - 输入内容为：%szjj
+2019-02-27 22:47:04,751 - BasePage - INFO - 已单击
+2019-02-27 22:47:10,100 - BasePage - INFO - 已单击
+2019-02-27 22:47:12,268 - BasePage - INFO - 已单击
+2019-02-27 22:47:12,351 - BasePage - INFO - 输入前清除内容
+2019-02-27 22:47:15,618 - BasePage - INFO - 输入内容为：%s123
+2019-02-27 22:47:16,078 - BasePage - INFO - 已单击
+2019-02-27 22:47:20,167 - BasePage - INFO - 成功关闭当前窗口
+2019-02-27 22:47:20,187 - BasePage - INFO - 成功
+2019-02-27 22:47:20,603 - BasePage - INFO - 刷新成功
+2019-02-27 22:47:36,336 - BasePage - INFO - 已单击
+2019-02-27 22:47:57,694 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-27 22:47:58,020 - BasePage - INFO - 输入内容为：%srebecca
+2019-02-27 22:47:58,265 - BasePage - INFO - 输入内容为：%s123456
+2019-02-27 22:47:58,578 - BasePage - INFO - 已单击
+2019-02-27 22:48:04,177 - BasePage - INFO - 已单击
+2019-02-27 22:48:06,536 - BasePage - INFO - 输入内容为：%s我是用户
+2019-02-27 22:48:06,651 - BasePage - INFO - 输入内容为：%s我在新板块下发帖
+2019-02-27 22:48:11,279 - BasePage - INFO - 已单击
+2019-02-27 22:48:26,587 - BasePage - INFO - 输入内容为：%s我也是用户，我在新板块下回复
+2019-02-27 22:48:26,921 - BasePage - INFO - 已单击
+2019-02-27 22:48:32,202 - BasePage - INFO - 成功返回
+2019-02-27 22:48:34,613 - BasePage - INFO - 已单击

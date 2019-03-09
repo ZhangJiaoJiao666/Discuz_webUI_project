@@ -1,0 +1,12 @@
+2019-02-28 11:14:58,636 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 11:14:58,636 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 11:15:00,840 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 11:15:01,140 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 11:15:02,263 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 11:15:02,265 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 11:15:05,873 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 11:15:06,022 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 11:15:06,093 - BasePage - INFO - 输入内容为：123456
+2019-02-28 11:15:06,163 - BasePage - INFO - 已单击
+2019-02-28 11:15:11,417 - BasePage - INFO - 已单击
+2019-02-28 11:15:16,754 - BasePage - INFO - 已单击

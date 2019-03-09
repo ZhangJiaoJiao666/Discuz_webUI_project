@@ -1,0 +1,26 @@
+2019-02-28 10:44:16,482 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 10:44:16,482 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 10:44:18,666 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 10:44:18,962 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 10:44:20,133 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 10:44:20,135 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 10:44:36,637 - BasePage - ERROR - 未找到Message: 
+
+2019-02-28 10:44:36,637 - BasePage - ERROR - 未输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:44:49,765 - BasePage - ERROR - 未找到Message: 
+
+2019-02-28 10:44:49,775 - BasePage - ERROR - 未输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:44:54,359 - BasePage - ERROR - 未找到'NoneType' object has no attribute 'is_displayed'
+2019-02-28 10:44:54,359 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 
+2019-02-28 10:44:59,374 - BasePage - ERROR - 未找到Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 10:44:59,375 - BasePage - ERROR - 未输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:44:59,379 - BasePage - ERROR - 未找到Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 10:44:59,379 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 

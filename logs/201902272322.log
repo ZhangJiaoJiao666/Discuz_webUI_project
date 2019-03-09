@@ -1,0 +1,19 @@
+2019-02-27 23:22:50,116 - BroserEngine - INFO - You had select Chrome browser
+2019-02-27 23:22:50,117 - BroserEngine - INFO - the test server url is :https://www.baidu.com
+2019-02-27 23:22:52,854 - BroserEngine - INFO - Starting Chrome browser
+2019-02-27 23:22:54,324 - BroserEngine - INFO - Open url:https://www.baidu.com
+2019-02-27 23:22:55,542 - BroserEngine - INFO - Maximize the current window. 
+2019-02-27 23:22:55,544 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-27 23:22:59,445 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-27 23:22:59,594 - BasePage - INFO - 输入内容为：rebecca
+2019-02-27 23:22:59,716 - BasePage - INFO - 输入内容为：123456
+2019-02-27 23:22:59,806 - BasePage - INFO - 已单击
+2019-02-27 23:23:04,922 - BasePage - INFO - 输入内容为：haotest
+2019-02-27 23:23:05,023 - BasePage - INFO - 已单击
+2019-02-27 23:23:05,029 - BasePage - INFO - 成功
+2019-02-27 23:23:10,165 - BasePage - INFO - 已单击
+2019-02-27 23:23:10,172 - BasePage - INFO - 成功
+2019-02-27 23:23:15,210 - BasePage - ERROR - 未找到Message: invalid argument: 'value' must be a string
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

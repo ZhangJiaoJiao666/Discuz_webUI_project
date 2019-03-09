@@ -1,0 +1,36 @@
+2019-03-02 10:55:10,966 - BroserEngine - INFO - You had select Chrome browser
+2019-03-02 10:55:10,966 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-02 10:55:13,213 - BroserEngine - INFO - Starting Chrome browser
+2019-03-02 10:55:13,558 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-02 10:55:14,705 - BroserEngine - INFO - Maximize the current window. 
+2019-03-02 10:55:14,708 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-02 10:55:18,435 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-02 10:55:18,575 - BasePage - INFO - 输入内容为：admin
+2019-03-02 10:55:18,654 - BasePage - INFO - 输入内容为：zjj
+2019-03-02 10:55:18,733 - BasePage - INFO - 已单击
+2019-03-02 10:55:23,857 - BasePage - INFO - 已单击
+2019-03-02 10:55:26,867 - BasePage - INFO - 成功
+2019-03-02 10:55:27,982 - BasePage - INFO - 输入内容为：zjj
+2019-03-02 10:55:33,304 - BasePage - INFO - 已单击
+2019-03-02 10:55:38,555 - BasePage - INFO - 已单击
+2019-03-02 10:55:40,727 - BasePage - INFO - 已单击
+2019-03-02 10:55:40,787 - BasePage - INFO - 输入前清除内容
+2019-03-02 10:55:43,919 - BasePage - INFO - 输入内容为：123
+2019-03-02 10:55:44,153 - BasePage - INFO - 已单击
+2019-03-02 10:55:48,176 - BasePage - INFO - 成功关闭当前窗口
+2019-03-02 10:55:48,183 - BasePage - INFO - 成功
+2019-03-02 10:55:48,312 - BasePage - INFO - 刷新成功
+2019-03-02 10:56:03,547 - BasePage - INFO - 已单击
+2019-03-02 10:56:24,872 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-02 10:56:25,151 - BasePage - INFO - 输入内容为：rebecca
+2019-03-02 10:56:25,356 - BasePage - INFO - 输入内容为：123456
+2019-03-02 10:56:25,655 - BasePage - INFO - 已单击
+2019-03-02 10:56:31,273 - BasePage - INFO - 已单击
+2019-03-02 10:56:33,605 - BasePage - INFO - 输入内容为：我是用户
+2019-03-02 10:56:33,780 - BasePage - INFO - 输入内容为：我在新板块下发帖
+2019-03-02 10:56:37,934 - BasePage - INFO - 已单击
+2019-03-02 10:56:37,934 - ForumHomePage - INFO - 发表帖子成功
+2019-03-02 10:56:53,288 - BasePage - INFO - 输入内容为：我也是用户，我在新板块下回复
+2019-03-02 10:56:53,714 - BasePage - INFO - 已单击
+2019-03-02 10:56:58,734 - BasePage - INFO - 成功
+2019-03-02 10:56:59,259 - BasePage - INFO - 已单击

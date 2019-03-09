@@ -1,0 +1,19 @@
+2019-02-28 15:59:41,164 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 15:59:41,164 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 15:59:43,446 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 15:59:43,763 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 15:59:44,895 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 15:59:44,898 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 15:59:48,597 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 15:59:48,744 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 15:59:48,826 - BasePage - INFO - 输入内容为：123456
+2019-02-28 15:59:48,899 - BasePage - INFO - 已单击
+2019-02-28 15:59:54,164 - BasePage - INFO - 已单击
+2019-02-28 15:59:59,500 - BasePage - INFO - 已单击
+2019-02-28 16:00:03,905 - BasePage - INFO - 已单击
+2019-02-28 16:00:21,999 - BasePage - ERROR - 未找到Message: 
+
+2019-02-28 16:00:21,999 - BasePage - ERROR - 未输入内容：'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:00:22,110 - BasePage - INFO - 输入内容为：gljdsg
+2019-02-28 16:00:22,197 - BasePage - INFO - 输入内容为：difoh
+2019-02-28 16:00:22,281 - BasePage - INFO - 输入内容为：jnkj

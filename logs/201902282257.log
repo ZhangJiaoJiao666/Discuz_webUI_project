@@ -1,0 +1,23 @@
+2019-02-28 22:57:32,416 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 22:57:32,416 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 22:57:35,088 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 22:57:35,501 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 22:57:36,687 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 22:57:36,693 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 22:57:40,784 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 22:57:40,939 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 22:57:41,025 - BasePage - INFO - 输入内容为：123456
+2019-02-28 22:57:41,115 - BasePage - INFO - 已单击
+2019-02-28 22:57:46,359 - BasePage - INFO - 已单击
+2019-02-28 22:57:51,783 - BasePage - INFO - 已单击
+2019-02-28 22:57:56,340 - BasePage - INFO - 已单击
+2019-02-28 22:58:01,579 - BasePage - INFO - 输入内容为：第10投票哈哈哈
+2019-02-28 22:58:01,685 - BasePage - INFO - 输入内容为：开心
+2019-02-28 22:58:01,779 - BasePage - INFO - 输入内容为：伤心
+2019-02-28 22:58:01,863 - BasePage - INFO - 输入内容为：还有
+2019-02-28 22:58:07,310 - BasePage - INFO - 已单击
+2019-02-28 22:58:14,634 - BasePage - INFO - 已单击
+2019-02-28 22:58:19,232 - BasePage - INFO - 已单击
+2019-02-28 22:58:22,372 - BasePage - INFO - 文本内容为:1.  开心
+2019-02-28 22:58:22,519 - BasePage - INFO - 文本内容为:2.  伤心
+2019-02-28 22:58:22,711 - BasePage - INFO - 文本内容为:3.  还有

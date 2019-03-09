@@ -1,0 +1,23 @@
+2019-02-28 11:09:10,224 - BroserEngine - INFO - You had select Chrome browser
+2019-02-28 11:09:10,224 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-02-28 11:09:12,483 - BroserEngine - INFO - Starting Chrome browser
+2019-02-28 11:09:12,800 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-02-28 11:09:13,926 - BroserEngine - INFO - Maximize the current window. 
+2019-02-28 11:09:13,927 - BroserEngine - INFO - Wait for 10s to open .
+2019-02-28 11:09:17,578 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-02-28 11:09:17,720 - BasePage - INFO - 输入内容为：rebecca
+2019-02-28 11:09:17,792 - BasePage - INFO - 输入内容为：123456
+2019-02-28 11:09:17,863 - BasePage - INFO - 已单击
+2019-02-28 11:09:22,973 - BasePage - INFO - 输入内容为：haotest
+2019-02-28 11:09:23,074 - BasePage - INFO - 已单击
+2019-02-28 11:09:23,079 - BasePage - INFO - 成功
+2019-02-28 11:09:24,234 - BasePage - INFO - 刷新成功
+2019-02-28 11:09:28,332 - BasePage - INFO - 已单击
+2019-02-28 11:09:28,342 - BasePage - INFO - 成功
+2019-02-28 11:09:29,844 - BasePage - INFO - 刷新成功
+2019-02-28 11:09:34,887 - BasePage - ERROR - 未找到Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 11:09:34,887 - BasePage - ERROR - 单击未成功：'NoneType' object has no attribute 'click' 

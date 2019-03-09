@@ -1,0 +1,24 @@
+2019-03-03 10:32:51,439 - BroserEngine - INFO - You had select Chrome browser
+2019-03-03 10:32:51,439 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-03 10:32:53,967 - BroserEngine - INFO - Starting Chrome browser
+2019-03-03 10:32:54,383 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-03 10:32:55,513 - BroserEngine - INFO - Maximize the current window. 
+2019-03-03 10:32:55,514 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-03 10:32:55,665 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-03 10:32:55,839 - BasePage - INFO - 输入内容为：rebecca
+2019-03-03 10:32:55,948 - BasePage - INFO - 输入内容为：123456
+2019-03-03 10:32:56,079 - BasePage - INFO - 已单击
+2019-03-03 10:33:01,358 - BasePage - INFO - 已单击
+2019-03-03 10:33:06,712 - BasePage - INFO - 已单击
+2019-03-03 10:33:11,187 - BasePage - INFO - 已单击
+2019-03-03 10:33:16,378 - BasePage - INFO - 输入内容为：第11投票哈哈哈
+2019-03-03 10:33:16,484 - BasePage - INFO - 输入内容为：开心
+2019-03-03 10:33:16,616 - BasePage - INFO - 输入内容为：伤心
+2019-03-03 10:33:16,693 - BasePage - INFO - 输入内容为：还有
+2019-03-03 10:33:21,922 - BasePage - INFO - 已单击
+2019-03-03 10:33:29,196 - BasePage - INFO - 已单击
+2019-03-03 10:33:33,330 - BasePage - INFO - 已单击
+2019-03-03 10:33:42,451 - BasePage - INFO - 成功
+2019-03-03 10:33:43,333 - BasePage - INFO - 刷新成功
+2019-03-03 10:33:44,001 - BasePage - INFO - 刷新成功
+2019-03-03 10:33:44,618 - BasePage - INFO - 已单击

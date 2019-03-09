@@ -1,0 +1,6 @@
+2019-03-01 16:50:08,233 - BroserEngine - INFO - You had select Chrome browser
+2019-03-01 16:50:08,233 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-01 16:50:10,477 - BroserEngine - INFO - Starting Chrome browser
+2019-03-01 16:50:10,775 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-01 16:50:11,897 - BroserEngine - INFO - Maximize the current window. 
+2019-03-01 16:50:11,898 - BroserEngine - INFO - Wait for 10s to open .

@@ -1,0 +1,17 @@
+2019-03-03 11:06:04,418 - BroserEngine - INFO - You had select Chrome browser
+2019-03-03 11:06:04,418 - BroserEngine - INFO - the test server url is :http://127.0.0.1/forum.php?
+2019-03-03 11:06:06,839 - BroserEngine - INFO - Starting Chrome browser
+2019-03-03 11:06:07,480 - BroserEngine - INFO - Open url:http://127.0.0.1/forum.php?
+2019-03-03 11:06:08,619 - BroserEngine - INFO - Maximize the current window. 
+2019-03-03 11:06:08,621 - BroserEngine - INFO - Wait for 10s to open .
+2019-03-03 11:06:08,786 - BasePage - INFO - URL为:http://127.0.0.1/forum.php?
+2019-03-03 11:06:08,952 - BasePage - INFO - 输入内容为：rebecca
+2019-03-03 11:06:09,039 - BasePage - INFO - 输入内容为：123456
+2019-03-03 11:06:09,119 - BasePage - INFO - 已单击
+2019-03-03 11:06:14,455 - BasePage - INFO - 已单击
+2019-03-03 11:06:19,557 - BasePage - INFO - 输入内容为：haotest
+2019-03-03 11:06:19,697 - BasePage - INFO - 输入内容为：2019.02.02上午11：00整
+2019-03-03 11:06:24,070 - BasePage - INFO - 已单击
+2019-03-03 11:06:24,070 - ForumHomePage - INFO - 发表帖子成功
+2019-03-03 11:06:39,343 - BasePage - INFO - 输入内容为：2019年2月17日上午10点整！
+2019-03-03 11:06:39,762 - BasePage - INFO - 已单击
